@@ -1,0 +1,21 @@
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    background-color: white;
+}
+.serviceSection{
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.breifcase{
+    width: 120px;
+}
+.birthdayCake{
+    width: 120px;
+}
+.social{
+    width: 120px;
+}
